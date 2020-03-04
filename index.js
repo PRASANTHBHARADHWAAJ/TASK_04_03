@@ -122,8 +122,6 @@ console.info("This is a msg")
 //displays an info specified
 
 
-co
-
 
 
 
