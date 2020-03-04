@@ -1,10 +1,3 @@
-// Import stylesheets
-import './style.css';
-
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>S.Prasanth Bharadhwaaj</h1>`;
-
 let a= 'SPB'
 console.log(a.bold())
 //returns bold along with tag,similarly for every html tags
@@ -78,7 +71,6 @@ console.log(a1.toString())
 // alert()
 // prompt()
 // confirm()
-
 
 console.log(Number(a))
 //converts into Number
