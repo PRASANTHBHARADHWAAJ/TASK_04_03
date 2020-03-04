@@ -78,7 +78,7 @@ console.log(a1.toString())
 // alert()
 // prompt()
 // confirm()
-console.log()
+
 
 console.log(Number(a))
 //converts into Number
@@ -110,11 +110,18 @@ console.warn("fdgdf")
 //warns 
 
 console.clear()
+//clears the console
 
 console.error("sdsd")
 //displays an error message
 
-console.exception()
+console.log(document.location)
+//returns Location {href: "https://primitive.stackblitz.io/", ancestorOrigins: {…}, origin: "https://primitive.stackblitz.io", protocol: "https:"…}
+
+console.info("This is a msg")
+//displays an info specified
+
+
 
 
 
