@@ -37,7 +37,6 @@ console.log(a.search("SPB"))
 
 console.log(a.slice(1,2))
 //wont remove but displays which is being sliced if 2 para specified the last is eliminated and takes till last b4 string
-
 console.log(a.split('',2))
 //returns ["S","P"] bcoz i have given 2 and if one we would have only S and the splitter is mentioned as ''
 
