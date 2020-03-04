@@ -49,13 +49,69 @@ console.log(a.substr(0,3))
 console.log(a.toLowerCase())
 //converts to l.toLowerCase
 
-setTimeout(function (){console.log(a)},4000)
-//prints after certain delay
+// setTimeout(function (){console.log(a)},4000)
+// //prints after certain delay
 
 let b="     dfsfd      "
 let c=b.trim()
 //trims the space given
 console.log(c.length)
+
+
+//NUMBER METHODS
+
+let a1=34
+console.log(a1.toFixed(2))
+//returns the val with zeroes after decimals.
+
+console.log(a1.toExponential(2))
+//3.40e+1
+
+console.log(a1.toString())
+
+console.log(a1.toString())
+
+
+//GLOBAL METHODS
+
+
+// alert()
+// prompt()
+// confirm()
+console.log()
+
+console.log(Number(a))
+
+console.log(String(a))
+
+console.log(isNaN(a))
+
+console.log(typeof a)
+
+console.log(parseInt(a))
+
+console.log(typeof a)
+
+let c=parseFloat(a)
+console.log(c)
+
+console.log(c)
+console.log(typeof c)
+//Number
+
+c=Boolean(a)
+console.log(typeof c)
+//Boolean
+
+
+
+
+
+
+
+
+
+
 
 
 
