@@ -81,16 +81,19 @@ console.log(a1.toString())
 console.log()
 
 console.log(Number(a))
+//converts into Number
 
 console.log(String(a))
+//converts into String
 
 console.log(isNaN(a))
+//checks for is Not an number
 
 console.log(typeof a)
+//typeof the variable
 
 console.log(parseInt(a))
-
-console.log(typeof a)
+//parses into an integer
 
 let c=parseFloat(a)
 console.log(c)
@@ -102,6 +105,17 @@ console.log(typeof c)
 c=Boolean(a)
 console.log(typeof c)
 //Boolean
+
+console.warn("fdgdf")
+//warns 
+
+console.clear()
+
+console.error("sdsd")
+//displays an error message
+
+console.exception()
+
 
 
 
