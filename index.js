@@ -55,7 +55,6 @@ setTimeout(function (){console.log(a)},4000)
 let b="     dfsfd      "
 let c=b.trim()
 //trims the space given
-
 console.log(c.length)
 
 
